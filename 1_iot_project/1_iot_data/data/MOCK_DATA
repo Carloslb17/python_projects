@@ -1,0 +1,1000 @@
+ sensor_id=1,temperature=74.44,location="bedroom" 1666275535855127547
+ sensor_id=2,temperature=16.2,location="bedroom" 1665019187198273550
+ sensor_id=3,temperature=80.2,location="living room" 1647531848316500178
+ sensor_id=4,temperature=19.22,location="bedroom" 1644121802423450186
+ sensor_id=5,temperature=51.89,location="bedroom" 1659709456059324183
+ sensor_id=6,temperature=0.42,location="living room" 1643677487532644023
+ sensor_id=7,temperature=51.75,location="kitchen" 1671304471439635610
+ sensor_id=8,temperature=-2.19,location="kitchen" 1669142743340650863
+ sensor_id=9,temperature=-12.38,location="living room" 1669132867753176173
+ sensor_id=10,temperature=75.19,location="outdoor" 1651582699426615052
+ sensor_id=11,temperature=17.69,location="outdoor" 1670217847982149922
+ sensor_id=12,temperature=75.24,location="living room" 1644131123522477373
+ sensor_id=13,temperature=52.82,location="bedroom" 1651556531031236612
+ sensor_id=14,temperature=74.13,location="outdoor" 1642931676032195407
+ sensor_id=15,temperature=9.22,location="kitchen" 1648013178847986924
+ sensor_id=16,temperature=4.18,location="outdoor" 1651691781540130835
+ sensor_id=17,temperature=13.87,location="bedroom" 1645769281515495342
+ sensor_id=18,temperature=50.26,location="bedroom" 1658127306357213708
+ sensor_id=19,temperature=31.76,location="outdoor" 1672331139006247319
+ sensor_id=20,temperature=6.21,location="bedroom" 1666186795917232810
+ sensor_id=21,temperature=57.28,location="kitchen" 1665866041939500516
+ sensor_id=22,temperature=84.52,location="outdoor" 1671352331467638456
+ sensor_id=23,temperature=96.54,location="kitchen" 1650806217972627111
+ sensor_id=24,temperature=17.88,location="kitchen" 1667963429490835103
+ sensor_id=25,temperature=54.09,location="kitchen" 1652955242479843186
+ sensor_id=26,temperature=23.37,location="bedroom" 1643714789986926363
+ sensor_id=27,temperature=55.66,location="living room" 1653409484342697874
+ sensor_id=28,temperature=18.6,location="outdoor" 1659470228637923012
+ sensor_id=29,temperature=3.68,location="kitchen" 1643857747931590640
+ sensor_id=30,temperature=-5.05,location="bedroom" 1646401662705121457
+ sensor_id=31,temperature=95.66,location="outdoor" 1648866016030808870
+ sensor_id=32,temperature=86.53,location="outdoor" 1670777319156060332
+ sensor_id=33,temperature=77.69,location="outdoor" 1666668719552655852
+ sensor_id=34,temperature=74.57,location="living room" 1651008077426256767
+ sensor_id=35,temperature=-1.74,location="kitchen" 1670441544728841998
+ sensor_id=36,temperature=97.8,location="living room" 1660862629368036710
+ sensor_id=37,temperature=55.4,location="living room" 1669487028039821506
+ sensor_id=38,temperature=16.61,location="bedroom" 1668673214710846121
+ sensor_id=39,temperature=88.79,location="bedroom" 1672048744065005490
+ sensor_id=40,temperature=57.34,location="outdoor" 1649084750259069293
+ sensor_id=41,temperature=83.85,location="kitchen" 1647370044460677265
+ sensor_id=42,temperature=-19.54,location="living room" 1663068892830111195
+ sensor_id=43,temperature=79.26,location="outdoor" 1653302781712182755
+ sensor_id=44,temperature=57.95,location="bedroom" 1647204257811049145
+ sensor_id=45,temperature=64.56,location="kitchen" 1654402588710671160
+ sensor_id=46,temperature=15.48,location="outdoor" 1661745134142459783
+ sensor_id=47,temperature=83.78,location="bedroom" 1648508919171297122
+ sensor_id=48,temperature=71.87,location="kitchen" 1656299498761465397
+ sensor_id=49,temperature=47.96,location="bedroom" 1665767025659156655
+ sensor_id=50,temperature=22.59,location="outdoor" 1666472425869692678
+ sensor_id=51,temperature=-16.54,location="bedroom" 1658940635357193586
+ sensor_id=52,temperature=19.95,location="kitchen" 1665728922150324696
+ sensor_id=53,temperature=50.9,location="bedroom" 1653201218757749745
+ sensor_id=54,temperature=-3.48,location="kitchen" 1657790347970056110
+ sensor_id=55,temperature=65.37,location="living room" 1650869405628836459
+ sensor_id=56,temperature=59.02,location="living room" 1665336514903738758
+ sensor_id=57,temperature=-9.4,location="living room" 1657263360641667998
+ sensor_id=58,temperature=49.13,location="bedroom" 1648680658356973337
+ sensor_id=59,temperature=28.24,location="living room" 1668842303323596589
+ sensor_id=60,temperature=-5.64,location="outdoor" 1646226936524017627
+ sensor_id=61,temperature=-14.27,location="outdoor" 1647902290303049223
+ sensor_id=62,temperature=9.66,location="bedroom" 1643789391852567682
+ sensor_id=63,temperature=76.86,location="kitchen" 1654185730526498774
+ sensor_id=64,temperature=0.72,location="bedroom" 1662217112509569106
+ sensor_id=65,temperature=83.4,location="living room" 1644430692645850467
+ sensor_id=66,temperature=72.52,location="kitchen" 1658194009469139929
+ sensor_id=67,temperature=93.21,location="living room" 1656605962458484026
+ sensor_id=68,temperature=-13.86,location="living room" 1645979249774058467
+ sensor_id=69,temperature=36.4,location="kitchen" 1657601300220398754
+ sensor_id=70,temperature=96.3,location="outdoor" 1669282766550195363
+ sensor_id=71,temperature=25.78,location="living room" 1656753250480824029
+ sensor_id=72,temperature=13.59,location="living room" 1662461061926435135
+ sensor_id=73,temperature=95.59,location="living room" 1647019384710624029
+ sensor_id=74,temperature=64.71,location="outdoor" 1642345525168634673
+ sensor_id=75,temperature=45.02,location="living room" 1645291922869173296
+ sensor_id=76,temperature=32.81,location="outdoor" 1667057957124574219
+ sensor_id=77,temperature=74.92,location="bedroom" 1641302479831760329
+ sensor_id=78,temperature=5.08,location="outdoor" 1663642047554042981
+ sensor_id=79,temperature=24.5,location="outdoor" 1646858164977042286
+ sensor_id=80,temperature=86.82,location="bedroom" 1656678412200569686
+ sensor_id=81,temperature=38.56,location="outdoor" 1668813096206024403
+ sensor_id=82,temperature=-15.35,location="kitchen" 1642867744796581724
+ sensor_id=83,temperature=-13.62,location="living room" 1656474106584735363
+ sensor_id=84,temperature=95.39,location="living room" 1652735638522148014
+ sensor_id=85,temperature=51.77,location="bedroom" 1667959054415652120
+ sensor_id=86,temperature=-17.32,location="kitchen" 1649076001823504989
+ sensor_id=87,temperature=55.34,location="bedroom" 1652574435009731358
+ sensor_id=88,temperature=2.66,location="outdoor" 1670461107722365549
+ sensor_id=89,temperature=85.54,location="bedroom" 1665294693003575720
+ sensor_id=90,temperature=90.01,location="kitchen" 1668671510402951285
+ sensor_id=91,temperature=91.71,location="bedroom" 1670391239259365192
+ sensor_id=92,temperature=66.42,location="outdoor" 1667251831963236495
+ sensor_id=93,temperature=1.73,location="outdoor" 1649992119115908456
+ sensor_id=94,temperature=86.07,location="kitchen" 1670006417998839264
+ sensor_id=95,temperature=70.42,location="outdoor" 1660065449377411692
+ sensor_id=96,temperature=46.71,location="bedroom" 1650652573323852047
+ sensor_id=97,temperature=62.67,location="living room" 1654096553779372156
+ sensor_id=98,temperature=16.16,location="outdoor" 1649083734491917737
+ sensor_id=99,temperature=-8.87,location="bedroom" 1664310613684514755
+ sensor_id=100,temperature=61.45,location="kitchen" 1647741296349076893
+ sensor_id=101,temperature=95.25,location="bedroom" 1649214219305218921
+ sensor_id=102,temperature=31.64,location="outdoor" 1671477840083482453
+ sensor_id=103,temperature=55.99,location="bedroom" 1664996601160757422
+ sensor_id=104,temperature=22.32,location="living room" 1667813969186458762
+ sensor_id=105,temperature=-11.44,location="outdoor" 1653330174425967446
+ sensor_id=106,temperature=90.79,location="kitchen" 1649771336586640827
+ sensor_id=107,temperature=97.87,location="outdoor" 1641324394601125713
+ sensor_id=108,temperature=86.2,location="bedroom" 1650507505461139729
+ sensor_id=109,temperature=29.5,location="living room" 1661769509933930710
+ sensor_id=110,temperature=68.12,location="living room" 1644703429703876767
+ sensor_id=111,temperature=-18.08,location="outdoor" 1667101268540838169
+ sensor_id=112,temperature=43.24,location="bedroom" 1655999239256988830
+ sensor_id=113,temperature=68.08,location="kitchen" 1653550538418790654
+ sensor_id=114,temperature=93.73,location="living room" 1653999485114487472
+ sensor_id=115,temperature=-3.51,location="bedroom" 1652326967025749253
+ sensor_id=116,temperature=43.99,location="outdoor" 1651542564798115882
+ sensor_id=117,temperature=27.03,location="kitchen" 1650077877942306183
+ sensor_id=118,temperature=62.56,location="outdoor" 1668072203109047928
+ sensor_id=119,temperature=7.47,location="outdoor" 1655838708823998091
+ sensor_id=120,temperature=51.2,location="outdoor" 1641156043021534758
+ sensor_id=121,temperature=-12.1,location="living room" 1664869772575916593
+ sensor_id=122,temperature=33.39,location="kitchen" 1644039984578849436
+ sensor_id=123,temperature=10.8,location="outdoor" 1670539044071009107
+ sensor_id=124,temperature=65.58,location="outdoor" 1656552191495582816
+ sensor_id=125,temperature=62.1,location="living room" 1662909278684362537
+ sensor_id=126,temperature=11.54,location="kitchen" 1658219052959616738
+ sensor_id=127,temperature=50.8,location="living room" 1650638064791430752
+ sensor_id=128,temperature=81.65,location="outdoor" 1668228328903586648
+ sensor_id=129,temperature=9.43,location="bedroom" 1649317577363273871
+ sensor_id=130,temperature=77.41,location="outdoor" 1641011232578962549
+ sensor_id=131,temperature=66.95,location="living room" 1657942964235815878
+ sensor_id=132,temperature=4.28,location="living room" 1649386489420727162
+ sensor_id=133,temperature=63.75,location="outdoor" 1664782918128176075
+ sensor_id=134,temperature=81.2,location="outdoor" 1646521283968622827
+ sensor_id=135,temperature=18.28,location="living room" 1645773720802062093
+ sensor_id=136,temperature=85.9,location="living room" 1666861346832340935
+ sensor_id=137,temperature=8.83,location="outdoor" 1651051099480511475
+ sensor_id=138,temperature=52.09,location="bedroom" 1661137359016830464
+ sensor_id=139,temperature=49.63,location="living room" 1651348170063172964
+ sensor_id=140,temperature=95.92,location="living room" 1648649788403541038
+ sensor_id=141,temperature=-15.83,location="kitchen" 1659111870196154212
+ sensor_id=142,temperature=9.45,location="kitchen" 1656037460303270531
+ sensor_id=143,temperature=10.36,location="outdoor" 1658855233602969743
+ sensor_id=144,temperature=48.6,location="living room" 1667214515614400241
+ sensor_id=145,temperature=60.98,location="bedroom" 1646685783689643209
+ sensor_id=146,temperature=55.46,location="kitchen" 1658617866774890977
+ sensor_id=147,temperature=15.35,location="bedroom" 1664631548374030846
+ sensor_id=148,temperature=88.97,location="bedroom" 1664674856748083449
+ sensor_id=149,temperature=65.97,location="bedroom" 1658825152822059288
+ sensor_id=150,temperature=99.1,location="kitchen" 1642315169802684240
+ sensor_id=151,temperature=-19.08,location="kitchen" 1653282034563746600
+ sensor_id=152,temperature=-7.13,location="bedroom" 1653686441155975406
+ sensor_id=153,temperature=26.74,location="kitchen" 1665950216500613787
+ sensor_id=154,temperature=12.48,location="outdoor" 1664897889008865722
+ sensor_id=155,temperature=48.39,location="outdoor" 1647259542521117128
+ sensor_id=156,temperature=18.92,location="bedroom" 1654876850775566305
+ sensor_id=157,temperature=78.54,location="living room" 1662112764122194147
+ sensor_id=158,temperature=95.75,location="living room" 1652446840978083524
+ sensor_id=159,temperature=30.44,location="outdoor" 1668241538173531651
+ sensor_id=160,temperature=38.91,location="outdoor" 1646275614172810516
+ sensor_id=161,temperature=84.89,location="living room" 1646043857849756392
+ sensor_id=162,temperature=-5.07,location="bedroom" 1659706238954381377
+ sensor_id=163,temperature=57.91,location="outdoor" 1669896938391057741
+ sensor_id=164,temperature=20.92,location="bedroom" 1641450962141612639
+ sensor_id=165,temperature=81.53,location="living room" 1655354107749895939
+ sensor_id=166,temperature=-3.48,location="living room" 1652547761836807162
+ sensor_id=167,temperature=35.23,location="bedroom" 1669728887570354197
+ sensor_id=168,temperature=-1.86,location="outdoor" 1644452328378036959
+ sensor_id=169,temperature=90.94,location="outdoor" 1642006883264622721
+ sensor_id=170,temperature=39.19,location="bedroom" 1648282070124151493
+ sensor_id=171,temperature=92.14,location="living room" 1658686361366226882
+ sensor_id=172,temperature=0.68,location="living room" 1666387683161124582
+ sensor_id=173,temperature=67.38,location="bedroom" 1645441109524163162
+ sensor_id=174,temperature=88.9,location="kitchen" 1642946234438688098
+ sensor_id=175,temperature=44.85,location="outdoor" 1670090012635451375
+ sensor_id=176,temperature=94.93,location="living room" 1672269248083009197
+ sensor_id=177,temperature=88.48,location="outdoor" 1650439957589990352
+ sensor_id=178,temperature=81.4,location="kitchen" 1665895954999496989
+ sensor_id=179,temperature=74.8,location="living room" 1670259764994894447
+ sensor_id=180,temperature=-4.88,location="bedroom" 1667737817439567382
+ sensor_id=181,temperature=6.81,location="kitchen" 1663139545417668877
+ sensor_id=182,temperature=66.4,location="bedroom" 1658137446949347674
+ sensor_id=183,temperature=58.59,location="bedroom" 1652379450097981610
+ sensor_id=184,temperature=-5.83,location="living room" 1652125679633904345
+ sensor_id=185,temperature=-10.45,location="bedroom" 1670215490453800023
+ sensor_id=186,temperature=2.65,location="kitchen" 1665961961892110903
+ sensor_id=187,temperature=17.57,location="kitchen" 1646266938138279822
+ sensor_id=188,temperature=8.1,location="living room" 1657179135514475794
+ sensor_id=189,temperature=62.18,location="kitchen" 1663388249713387445
+ sensor_id=190,temperature=27.0,location="kitchen" 1664291734598590256
+ sensor_id=191,temperature=44.94,location="bedroom" 1654530701659262645
+ sensor_id=192,temperature=81.68,location="kitchen" 1646679353068189031
+ sensor_id=193,temperature=71.08,location="outdoor" 1644848220560376889
+ sensor_id=194,temperature=83.74,location="kitchen" 1649700905797097503
+ sensor_id=195,temperature=74.93,location="kitchen" 1666074177504520958
+ sensor_id=196,temperature=58.8,location="living room" 1652457195048661213
+ sensor_id=197,temperature=-19.45,location="living room" 1662727915180141946
+ sensor_id=198,temperature=13.85,location="bedroom" 1648438179178877787
+ sensor_id=199,temperature=77.01,location="outdoor" 1649579787302720399
+ sensor_id=200,temperature=88.73,location="outdoor" 1649563262829321525
+ sensor_id=201,temperature=31.19,location="outdoor" 1645984590996326415
+ sensor_id=202,temperature=13.85,location="living room" 1660662209774067645
+ sensor_id=203,temperature=96.95,location="kitchen" 1670052463111606240
+ sensor_id=204,temperature=-17.36,location="living room" 1669399475047982411
+ sensor_id=205,temperature=35.37,location="living room" 1656570884400439884
+ sensor_id=206,temperature=94.67,location="living room" 1664389617877873190
+ sensor_id=207,temperature=87.18,location="bedroom" 1670938051814086687
+ sensor_id=208,temperature=32.44,location="living room" 1651766366070731195
+ sensor_id=209,temperature=84.29,location="kitchen" 1662235738933881468
+ sensor_id=210,temperature=50.29,location="kitchen" 1658679952778692817
+ sensor_id=211,temperature=69.62,location="living room" 1669495018655995936
+ sensor_id=212,temperature=40.89,location="kitchen" 1659953749845431609
+ sensor_id=213,temperature=75.19,location="living room" 1670615538386238463
+ sensor_id=214,temperature=55.22,location="living room" 1664961913984952369
+ sensor_id=215,temperature=22.08,location="outdoor" 1657233014560278739
+ sensor_id=216,temperature=-3.8,location="kitchen" 1646911675086633893
+ sensor_id=217,temperature=82.47,location="kitchen" 1644836082716171599
+ sensor_id=218,temperature=73.42,location="kitchen" 1652398762593037796
+ sensor_id=219,temperature=50.45,location="kitchen" 1672268550472058070
+ sensor_id=220,temperature=99.13,location="kitchen" 1648433840122373615
+ sensor_id=221,temperature=30.45,location="kitchen" 1647917015920623235
+ sensor_id=222,temperature=20.23,location="living room" 1662683844365755947
+ sensor_id=223,temperature=19.79,location="living room" 1658599008395098153
+ sensor_id=224,temperature=31.57,location="bedroom" 1670391550552481349
+ sensor_id=225,temperature=-5.32,location="bedroom" 1667206808604112409
+ sensor_id=226,temperature=-0.41,location="kitchen" 1646576882686975328
+ sensor_id=227,temperature=60.4,location="outdoor" 1642435090948676956
+ sensor_id=228,temperature=27.12,location="living room" 1664387517530159094
+ sensor_id=229,temperature=14.62,location="outdoor" 1663784005289213757
+ sensor_id=230,temperature=7.24,location="living room" 1661217561936485808
+ sensor_id=231,temperature=81.18,location="kitchen" 1669767621813415078
+ sensor_id=232,temperature=16.38,location="bedroom" 1667992525127124022
+ sensor_id=233,temperature=29.46,location="bedroom" 1649588614384138185
+ sensor_id=234,temperature=20.71,location="living room" 1668213390405498339
+ sensor_id=235,temperature=-0.03,location="kitchen" 1644062209793177897
+ sensor_id=236,temperature=5.68,location="kitchen" 1647065658591034155
+ sensor_id=237,temperature=22.28,location="outdoor" 1665371217549723203
+ sensor_id=238,temperature=19.57,location="bedroom" 1642191282593869175
+ sensor_id=239,temperature=40.07,location="living room" 1648715717475066612
+ sensor_id=240,temperature=92.52,location="bedroom" 1657906174203562201
+ sensor_id=241,temperature=93.39,location="living room" 1667401275123347369
+ sensor_id=242,temperature=51.73,location="outdoor" 1663649747093021849
+ sensor_id=243,temperature=-3.15,location="bedroom" 1660233097964189724
+ sensor_id=244,temperature=62.57,location="outdoor" 1668832579382830888
+ sensor_id=245,temperature=79.55,location="bedroom" 1661719464962063330
+ sensor_id=246,temperature=-0.25,location="living room" 1645868842520662221
+ sensor_id=247,temperature=67.05,location="kitchen" 1648151938509056201
+ sensor_id=248,temperature=-19.84,location="bedroom" 1653512053238193443
+ sensor_id=249,temperature=28.48,location="kitchen" 1665436745494458151
+ sensor_id=250,temperature=7.82,location="bedroom" 1650719216196577909
+ sensor_id=251,temperature=15.99,location="living room" 1661798622411069425
+ sensor_id=252,temperature=90.51,location="kitchen" 1671249323328584662
+ sensor_id=253,temperature=3.04,location="bedroom" 1653398257342658672
+ sensor_id=254,temperature=69.61,location="outdoor" 1668988960501437100
+ sensor_id=255,temperature=28.16,location="living room" 1663180791434847473
+ sensor_id=256,temperature=73.23,location="bedroom" 1659049573130466270
+ sensor_id=257,temperature=0.69,location="bedroom" 1661968783979297671
+ sensor_id=258,temperature=49.29,location="bedroom" 1658311163066456892
+ sensor_id=259,temperature=76.4,location="kitchen" 1658086350740551659
+ sensor_id=260,temperature=56.34,location="kitchen" 1647272396564678676
+ sensor_id=261,temperature=0.88,location="living room" 1659920039232694469
+ sensor_id=262,temperature=3.2,location="outdoor" 1659639732289626181
+ sensor_id=263,temperature=15.81,location="outdoor" 1663685935847636033
+ sensor_id=264,temperature=47.73,location="bedroom" 1659180977731677999
+ sensor_id=265,temperature=40.91,location="outdoor" 1662256250757951280
+ sensor_id=266,temperature=13.18,location="outdoor" 1667971849038535717
+ sensor_id=267,temperature=7.88,location="kitchen" 1643246159199888130
+ sensor_id=268,temperature=94.8,location="living room" 1660956701848561191
+ sensor_id=269,temperature=13.98,location="bedroom" 1669739412215080827
+ sensor_id=270,temperature=13.1,location="living room" 1661205295120326033
+ sensor_id=271,temperature=33.89,location="outdoor" 1662952384455974595
+ sensor_id=272,temperature=94.93,location="kitchen" 1647504492949945782
+ sensor_id=273,temperature=19.97,location="kitchen" 1644360969353018713
+ sensor_id=274,temperature=9.66,location="outdoor" 1648545656901568533
+ sensor_id=275,temperature=61.61,location="outdoor" 1670706950074411063
+ sensor_id=276,temperature=4.63,location="outdoor" 1652118928238716437
+ sensor_id=277,temperature=58.88,location="living room" 1661205924068702625
+ sensor_id=278,temperature=-15.09,location="living room" 1649988772906001594
+ sensor_id=279,temperature=-10.26,location="outdoor" 1659542648648227218
+ sensor_id=280,temperature=15.03,location="outdoor" 1666669582020974222
+ sensor_id=281,temperature=45.72,location="kitchen" 1663270325181232982
+ sensor_id=282,temperature=45.46,location="kitchen" 1659118565185580658
+ sensor_id=283,temperature=42.78,location="outdoor" 1641290866654651372
+ sensor_id=284,temperature=77.78,location="outdoor" 1643298003704394325
+ sensor_id=285,temperature=86.43,location="bedroom" 1666588181425349577
+ sensor_id=286,temperature=71.55,location="outdoor" 1645147734684551451
+ sensor_id=287,temperature=66.68,location="living room" 1663779037769285407
+ sensor_id=288,temperature=90.76,location="bedroom" 1659238929165598627
+ sensor_id=289,temperature=71.19,location="kitchen" 1660758117184912061
+ sensor_id=290,temperature=32.32,location="living room" 1648465697116465777
+ sensor_id=291,temperature=3.06,location="outdoor" 1670555308821048164
+ sensor_id=292,temperature=85.15,location="bedroom" 1658783219168983297
+ sensor_id=293,temperature=12.22,location="outdoor" 1652725266347170925
+ sensor_id=294,temperature=88.87,location="outdoor" 1647204181085398675
+ sensor_id=295,temperature=-8.98,location="bedroom" 1654759030055754774
+ sensor_id=296,temperature=33.79,location="kitchen" 1653040235966485146
+ sensor_id=297,temperature=4.33,location="kitchen" 1647001681496747559
+ sensor_id=298,temperature=80.77,location="outdoor" 1670718108289534579
+ sensor_id=299,temperature=16.38,location="living room" 1656614228964884283
+ sensor_id=300,temperature=28.04,location="bedroom" 1650452648770044637
+ sensor_id=301,temperature=10.1,location="living room" 1666666862836922353
+ sensor_id=302,temperature=-17.4,location="bedroom" 1643709848309311333
+ sensor_id=303,temperature=44.93,location="bedroom" 1642208374434057396
+ sensor_id=304,temperature=67.69,location="living room" 1649506936318089350
+ sensor_id=305,temperature=77.2,location="outdoor" 1657088317307264171
+ sensor_id=306,temperature=-12.85,location="kitchen" 1651007951475921022
+ sensor_id=307,temperature=42.11,location="living room" 1653083242016755529
+ sensor_id=308,temperature=27.45,location="living room" 1653606266094360960
+ sensor_id=309,temperature=75.86,location="outdoor" 1641379873868854301
+ sensor_id=310,temperature=22.47,location="living room" 1642476400035876609
+ sensor_id=311,temperature=99.82,location="living room" 1667372907195389938
+ sensor_id=312,temperature=-16.29,location="bedroom" 1664354668509907362
+ sensor_id=313,temperature=40.68,location="living room" 1665516682075053841
+ sensor_id=314,temperature=88.85,location="kitchen" 1642894207877239886
+ sensor_id=315,temperature=82.34,location="bedroom" 1655708090565672634
+ sensor_id=316,temperature=83.55,location="bedroom" 1652889964246882152
+ sensor_id=317,temperature=44.62,location="living room" 1651527532120329533
+ sensor_id=318,temperature=61.0,location="bedroom" 1642089108850346739
+ sensor_id=319,temperature=95.9,location="bedroom" 1661498220540464996
+ sensor_id=320,temperature=99.39,location="living room" 1645662090697450669
+ sensor_id=321,temperature=41.92,location="outdoor" 1662525484072157390
+ sensor_id=322,temperature=-9.02,location="living room" 1662705441657750525
+ sensor_id=323,temperature=88.72,location="kitchen" 1660151040579447220
+ sensor_id=324,temperature=6.38,location="outdoor" 1651558346633402274
+ sensor_id=325,temperature=76.09,location="kitchen" 1641635309636703800
+ sensor_id=326,temperature=66.98,location="bedroom" 1670433578771723860
+ sensor_id=327,temperature=17.17,location="kitchen" 1672421398479266193
+ sensor_id=328,temperature=-5.82,location="bedroom" 1648379738483359893
+ sensor_id=329,temperature=89.53,location="living room" 1642834619326491379
+ sensor_id=330,temperature=56.23,location="living room" 1669100799623177492
+ sensor_id=331,temperature=33.32,location="outdoor" 1666746634086094091
+ sensor_id=332,temperature=29.8,location="bedroom" 1644319807974880446
+ sensor_id=333,temperature=30.68,location="kitchen" 1665046129140497975
+ sensor_id=334,temperature=-8.47,location="outdoor" 1648442260270223906
+ sensor_id=335,temperature=55.41,location="kitchen" 1658390049623846352
+ sensor_id=336,temperature=8.94,location="living room" 1644640222865388639
+ sensor_id=337,temperature=85.31,location="bedroom" 1664579782482067891
+ sensor_id=338,temperature=-12.21,location="outdoor" 1670856679739859557
+ sensor_id=339,temperature=13.74,location="kitchen" 1642970477191972952
+ sensor_id=340,temperature=-17.61,location="kitchen" 1643127691275458047
+ sensor_id=341,temperature=72.46,location="kitchen" 1669263906552009925
+ sensor_id=342,temperature=15.93,location="living room" 1671312686644046141
+ sensor_id=343,temperature=79.53,location="kitchen" 1653691439948222348
+ sensor_id=344,temperature=36.79,location="kitchen" 1647003593194998531
+ sensor_id=345,temperature=77.36,location="living room" 1671173206413721751
+ sensor_id=346,temperature=22.06,location="outdoor" 1668152417307391394
+ sensor_id=347,temperature=64.06,location="kitchen" 1656664562375621867
+ sensor_id=348,temperature=70.26,location="outdoor" 1657777850417999632
+ sensor_id=349,temperature=40.88,location="kitchen" 1656277539051526834
+ sensor_id=350,temperature=63.77,location="bedroom" 1655491663561319985
+ sensor_id=351,temperature=27.71,location="living room" 1654554789965110093
+ sensor_id=352,temperature=95.91,location="living room" 1664208147772549172
+ sensor_id=353,temperature=70.33,location="kitchen" 1645736820382320562
+ sensor_id=354,temperature=37.47,location="outdoor" 1645523560486098711
+ sensor_id=355,temperature=43.0,location="bedroom" 1660617859992232957
+ sensor_id=356,temperature=99.9,location="living room" 1671267991669108308
+ sensor_id=357,temperature=76.71,location="outdoor" 1654989715902277524
+ sensor_id=358,temperature=65.57,location="outdoor" 1669413110249793111
+ sensor_id=359,temperature=30.0,location="living room" 1670571574922037754
+ sensor_id=360,temperature=99.17,location="bedroom" 1643465483396013864
+ sensor_id=361,temperature=98.48,location="living room" 1665558297088143985
+ sensor_id=362,temperature=60.48,location="bedroom" 1645654945731156709
+ sensor_id=363,temperature=17.07,location="bedroom" 1647160659993854079
+ sensor_id=364,temperature=96.33,location="bedroom" 1643980897495548852
+ sensor_id=365,temperature=45.17,location="kitchen" 1662330992066594971
+ sensor_id=366,temperature=14.33,location="bedroom" 1662925285616749560
+ sensor_id=367,temperature=-19.06,location="living room" 1666432084243898345
+ sensor_id=368,temperature=71.97,location="living room" 1660963422763211330
+ sensor_id=369,temperature=-0.48,location="bedroom" 1645307870298276408
+ sensor_id=370,temperature=20.04,location="outdoor" 1660670639183999491
+ sensor_id=371,temperature=66.99,location="bedroom" 1658161350934400076
+ sensor_id=372,temperature=63.37,location="bedroom" 1672163825391825841
+ sensor_id=373,temperature=19.54,location="kitchen" 1667345050260468548
+ sensor_id=374,temperature=79.4,location="bedroom" 1645235483075505846
+ sensor_id=375,temperature=70.67,location="bedroom" 1667460332928349210
+ sensor_id=376,temperature=82.69,location="outdoor" 1668486201017858275
+ sensor_id=377,temperature=71.68,location="kitchen" 1649108556238467462
+ sensor_id=378,temperature=44.15,location="bedroom" 1664876170521329496
+ sensor_id=379,temperature=51.57,location="kitchen" 1642145537457465882
+ sensor_id=380,temperature=84.69,location="kitchen" 1667502306992666183
+ sensor_id=381,temperature=47.34,location="kitchen" 1655576310100397551
+ sensor_id=382,temperature=47.44,location="outdoor" 1669520943043114268
+ sensor_id=383,temperature=10.01,location="outdoor" 1670657088375836836
+ sensor_id=384,temperature=32.39,location="kitchen" 1645141843337872361
+ sensor_id=385,temperature=65.84,location="outdoor" 1653586358820442201
+ sensor_id=386,temperature=45.48,location="bedroom" 1662264626986019843
+ sensor_id=387,temperature=33.64,location="outdoor" 1650775711190006006
+ sensor_id=388,temperature=96.41,location="living room" 1671585925132059130
+ sensor_id=389,temperature=98.54,location="bedroom" 1643580071265277160
+ sensor_id=390,temperature=74.85,location="outdoor" 1671070022729168589
+ sensor_id=391,temperature=24.71,location="kitchen" 1657436752326837492
+ sensor_id=392,temperature=32.57,location="kitchen" 1662139125847740676
+ sensor_id=393,temperature=57.96,location="living room" 1641206840536078961
+ sensor_id=394,temperature=16.6,location="bedroom" 1663752046102688203
+ sensor_id=395,temperature=92.65,location="kitchen" 1662994326949489369
+ sensor_id=396,temperature=60.83,location="kitchen" 1669464610477181682
+ sensor_id=397,temperature=26.73,location="outdoor" 1662524739886380815
+ sensor_id=398,temperature=71.05,location="kitchen" 1647839808423207399
+ sensor_id=399,temperature=-13.33,location="living room" 1658020043092687041
+ sensor_id=400,temperature=34.86,location="kitchen" 1656768002306579677
+ sensor_id=401,temperature=-9.37,location="outdoor" 1663365664685471316
+ sensor_id=402,temperature=-18.38,location="bedroom" 1661476184159596880
+ sensor_id=403,temperature=44.31,location="outdoor" 1648569392510963731
+ sensor_id=404,temperature=97.87,location="living room" 1662724845490074201
+ sensor_id=405,temperature=95.65,location="bedroom" 1671972517760850647
+ sensor_id=406,temperature=86.09,location="kitchen" 1662965316564931288
+ sensor_id=407,temperature=-14.53,location="bedroom" 1657933593647080472
+ sensor_id=408,temperature=66.41,location="outdoor" 1641306573120713219
+ sensor_id=409,temperature=83.19,location="kitchen" 1642086189245807649
+ sensor_id=410,temperature=52.5,location="kitchen" 1659029399081882088
+ sensor_id=411,temperature=90.63,location="bedroom" 1657095634583540908
+ sensor_id=412,temperature=45.14,location="outdoor" 1671670520413801144
+ sensor_id=413,temperature=46.44,location="outdoor" 1671007821197732440
+ sensor_id=414,temperature=1.95,location="outdoor" 1666045978788275917
+ sensor_id=415,temperature=50.77,location="living room" 1672094242933688908
+ sensor_id=416,temperature=-2.52,location="kitchen" 1645830774735685454
+ sensor_id=417,temperature=-3.17,location="living room" 1647490607298906867
+ sensor_id=418,temperature=73.35,location="outdoor" 1651386452638892252
+ sensor_id=419,temperature=20.29,location="outdoor" 1647403324664178548
+ sensor_id=420,temperature=17.85,location="living room" 1646073705057305437
+ sensor_id=421,temperature=40.45,location="kitchen" 1658113569322887601
+ sensor_id=422,temperature=25.84,location="kitchen" 1657989991134064456
+ sensor_id=423,temperature=-6.76,location="outdoor" 1647864001006741439
+ sensor_id=424,temperature=94.55,location="living room" 1641071327517294770
+ sensor_id=425,temperature=29.55,location="kitchen" 1662110057605570059
+ sensor_id=426,temperature=33.65,location="living room" 1665395485516468980
+ sensor_id=427,temperature=10.64,location="kitchen" 1643260068851504192
+ sensor_id=428,temperature=67.69,location="outdoor" 1641195538087997385
+ sensor_id=429,temperature=36.53,location="outdoor" 1670402909861169515
+ sensor_id=430,temperature=99.79,location="outdoor" 1668375577935755920
+ sensor_id=431,temperature=58.54,location="kitchen" 1667814932191930385
+ sensor_id=432,temperature=33.19,location="bedroom" 1642603828355548921
+ sensor_id=433,temperature=78.23,location="living room" 1655304803825007921
+ sensor_id=434,temperature=56.82,location="outdoor" 1651136227861050934
+ sensor_id=435,temperature=25.02,location="outdoor" 1644432451907894784
+ sensor_id=436,temperature=12.97,location="kitchen" 1662612643621481225
+ sensor_id=437,temperature=10.09,location="outdoor" 1652330638855252138
+ sensor_id=438,temperature=28.84,location="living room" 1649578984803460128
+ sensor_id=439,temperature=-3.64,location="living room" 1654570741384092485
+ sensor_id=440,temperature=37.59,location="kitchen" 1672326039376639916
+ sensor_id=441,temperature=20.2,location="bedroom" 1658984850750758983
+ sensor_id=442,temperature=-13.45,location="outdoor" 1669948648763020196
+ sensor_id=443,temperature=-6.88,location="outdoor" 1665362298377019485
+ sensor_id=444,temperature=54.34,location="bedroom" 1645816611306331050
+ sensor_id=445,temperature=89.42,location="living room" 1671379896688210811
+ sensor_id=446,temperature=-4.38,location="living room" 1648606751190229288
+ sensor_id=447,temperature=1.71,location="outdoor" 1645073563352908315
+ sensor_id=448,temperature=50.72,location="outdoor" 1651997968160133541
+ sensor_id=449,temperature=8.43,location="living room" 1657441868150007798
+ sensor_id=450,temperature=28.24,location="living room" 1659444246315095502
+ sensor_id=451,temperature=80.82,location="living room" 1667110512367681934
+ sensor_id=452,temperature=91.68,location="outdoor" 1655303081406950399
+ sensor_id=453,temperature=43.98,location="bedroom" 1648752243712178242
+ sensor_id=454,temperature=-8.69,location="outdoor" 1644166025768130442
+ sensor_id=455,temperature=-11.43,location="bedroom" 1671674604063852980
+ sensor_id=456,temperature=97.33,location="outdoor" 1669498611868518698
+ sensor_id=457,temperature=59.68,location="bedroom" 1648745863628777684
+ sensor_id=458,temperature=61.3,location="outdoor" 1644749736303955483
+ sensor_id=459,temperature=-5.11,location="outdoor" 1666803568535361189
+ sensor_id=460,temperature=74.35,location="living room" 1663778177714210711
+ sensor_id=461,temperature=52.61,location="outdoor" 1667107805828843170
+ sensor_id=462,temperature=74.43,location="kitchen" 1650880845895820284
+ sensor_id=463,temperature=70.67,location="bedroom" 1654182203167751726
+ sensor_id=464,temperature=-19.17,location="kitchen" 1655134923710677940
+ sensor_id=465,temperature=84.29,location="outdoor" 1670984669585882471
+ sensor_id=466,temperature=43.35,location="outdoor" 1666013961147984787
+ sensor_id=467,temperature=61.68,location="bedroom" 1671045883610571012
+ sensor_id=468,temperature=9.53,location="outdoor" 1658739742424922998
+ sensor_id=469,temperature=88.17,location="bedroom" 1656284330803344200
+ sensor_id=470,temperature=59.14,location="outdoor" 1652856460655491720
+ sensor_id=471,temperature=70.65,location="outdoor" 1658160906778401334
+ sensor_id=472,temperature=-10.85,location="kitchen" 1641211072074464573
+ sensor_id=473,temperature=42.44,location="bedroom" 1664558184648040870
+ sensor_id=474,temperature=65.08,location="bedroom" 1658942756342500769
+ sensor_id=475,temperature=98.19,location="outdoor" 1641707058269232235
+ sensor_id=476,temperature=48.42,location="bedroom" 1658237150747984296
+ sensor_id=477,temperature=0.11,location="bedroom" 1645124755253333546
+ sensor_id=478,temperature=10.83,location="bedroom" 1643929904267470273
+ sensor_id=479,temperature=-14.2,location="bedroom" 1643981589738334876
+ sensor_id=480,temperature=39.2,location="bedroom" 1666622090319797081
+ sensor_id=481,temperature=11.7,location="kitchen" 1657757998472160703
+ sensor_id=482,temperature=37.51,location="bedroom" 1660851747936275966
+ sensor_id=483,temperature=-12.66,location="kitchen" 1658379413848916969
+ sensor_id=484,temperature=-2.13,location="living room" 1654766566011873589
+ sensor_id=485,temperature=58.61,location="bedroom" 1667437773698920955
+ sensor_id=486,temperature=10.17,location="kitchen" 1642783944938132379
+ sensor_id=487,temperature=51.02,location="bedroom" 1665723543293023681
+ sensor_id=488,temperature=3.18,location="living room" 1648030833142709255
+ sensor_id=489,temperature=18.33,location="living room" 1671834999861745376
+ sensor_id=490,temperature=-4.15,location="bedroom" 1644995617469926047
+ sensor_id=491,temperature=76.65,location="outdoor" 1655401291484196560
+ sensor_id=492,temperature=0.11,location="kitchen" 1671515667853328886
+ sensor_id=493,temperature=-16.97,location="living room" 1649159845998456661
+ sensor_id=494,temperature=48.51,location="outdoor" 1653413358285206494
+ sensor_id=495,temperature=56.8,location="living room" 1669242045795050129
+ sensor_id=496,temperature=42.35,location="bedroom" 1643709045701765521
+ sensor_id=497,temperature=24.83,location="living room" 1666276285977512267
+ sensor_id=498,temperature=91.4,location="kitchen" 1655566171811132869
+ sensor_id=499,temperature=71.92,location="outdoor" 1661723332700174686
+ sensor_id=500,temperature=19.16,location="living room" 1649560207649987080
+ sensor_id=501,temperature=21.39,location="living room" 1668547711207270444
+ sensor_id=502,temperature=45.07,location="outdoor" 1671342925253509304
+ sensor_id=503,temperature=63.13,location="living room" 1649803381597431866
+ sensor_id=504,temperature=38.14,location="outdoor" 1670096268939484299
+ sensor_id=505,temperature=-18.56,location="living room" 1649535249733090361
+ sensor_id=506,temperature=57.43,location="outdoor" 1650815981529030067
+ sensor_id=507,temperature=48.23,location="kitchen" 1663413926957365405
+ sensor_id=508,temperature=21.25,location="outdoor" 1666631325451306134
+ sensor_id=509,temperature=-19.51,location="bedroom" 1660850265217911062
+ sensor_id=510,temperature=50.37,location="living room" 1664057734352088148
+ sensor_id=511,temperature=47.28,location="living room" 1669764295851295470
+ sensor_id=512,temperature=99.14,location="outdoor" 1669971423036928262
+ sensor_id=513,temperature=-16.3,location="outdoor" 1644541582336354170
+ sensor_id=514,temperature=45.28,location="living room" 1671101486272654120
+ sensor_id=515,temperature=30.27,location="bedroom" 1664994281608615182
+ sensor_id=516,temperature=1.26,location="living room" 1670898020623240707
+ sensor_id=517,temperature=7.32,location="bedroom" 1660270865881176560
+ sensor_id=518,temperature=77.46,location="bedroom" 1657523681513884898
+ sensor_id=519,temperature=50.32,location="living room" 1659629132601723710
+ sensor_id=520,temperature=-1.8,location="outdoor" 1670808704901165677
+ sensor_id=521,temperature=25.81,location="bedroom" 1648437646895144299
+ sensor_id=522,temperature=48.51,location="outdoor" 1648072400047601332
+ sensor_id=523,temperature=13.59,location="living room" 1655818303574031567
+ sensor_id=524,temperature=69.18,location="kitchen" 1652196852727104043
+ sensor_id=525,temperature=53.8,location="outdoor" 1657560734506459217
+ sensor_id=526,temperature=80.22,location="kitchen" 1659900966219801418
+ sensor_id=527,temperature=-1.98,location="kitchen" 1644275211793871547
+ sensor_id=528,temperature=23.41,location="outdoor" 1671081183117420531
+ sensor_id=529,temperature=72.95,location="living room" 1653225123955947010
+ sensor_id=530,temperature=20.57,location="kitchen" 1670755143976719656
+ sensor_id=531,temperature=26.05,location="outdoor" 1653860684447026868
+ sensor_id=532,temperature=84.19,location="outdoor" 1660740947446807873
+ sensor_id=533,temperature=69.84,location="bedroom" 1656277898577388983
+ sensor_id=534,temperature=44.53,location="outdoor" 1650243429790439442
+ sensor_id=535,temperature=92.13,location="outdoor" 1646588694275761975
+ sensor_id=536,temperature=46.3,location="bedroom" 1641669030228508659
+ sensor_id=537,temperature=72.03,location="bedroom" 1659892557119050794
+ sensor_id=538,temperature=21.71,location="bedroom" 1642822132898850422
+ sensor_id=539,temperature=96.73,location="living room" 1672247858994174787
+ sensor_id=540,temperature=47.57,location="bedroom" 1650301733834819154
+ sensor_id=541,temperature=26.92,location="living room" 1648361697212189067
+ sensor_id=542,temperature=37.18,location="kitchen" 1649153893699105972
+ sensor_id=543,temperature=58.27,location="living room" 1660539245209670692
+ sensor_id=544,temperature=66.59,location="kitchen" 1662062317328095723
+ sensor_id=545,temperature=-10.94,location="living room" 1660838093522634683
+ sensor_id=546,temperature=12.38,location="kitchen" 1662724093631536754
+ sensor_id=547,temperature=48.22,location="kitchen" 1642953333061134028
+ sensor_id=548,temperature=57.97,location="outdoor" 1645161450365082949
+ sensor_id=549,temperature=30.69,location="bedroom" 1660348261084983059
+ sensor_id=550,temperature=-17.9,location="living room" 1667479696187723828
+ sensor_id=551,temperature=84.34,location="kitchen" 1666362628740494658
+ sensor_id=552,temperature=91.79,location="kitchen" 1663666383951455192
+ sensor_id=553,temperature=30.42,location="bedroom" 1668668295924604103
+ sensor_id=554,temperature=9.31,location="outdoor" 1650785639526420844
+ sensor_id=555,temperature=74.38,location="living room" 1658611318875691802
+ sensor_id=556,temperature=96.16,location="living room" 1662977432388733348
+ sensor_id=557,temperature=26.13,location="bedroom" 1659492025693889838
+ sensor_id=558,temperature=92.26,location="outdoor" 1670643580936650711
+ sensor_id=559,temperature=32.31,location="bedroom" 1663532537880097293
+ sensor_id=560,temperature=7.65,location="bedroom" 1649388687360159711
+ sensor_id=561,temperature=83.86,location="kitchen" 1658403315710473075
+ sensor_id=562,temperature=27.8,location="living room" 1644253963155132816
+ sensor_id=563,temperature=58.7,location="outdoor" 1669013446459933095
+ sensor_id=564,temperature=33.06,location="outdoor" 1647922407142653114
+ sensor_id=565,temperature=-18.05,location="outdoor" 1668358919186037282
+ sensor_id=566,temperature=0.7,location="bedroom" 1646377622852683767
+ sensor_id=567,temperature=62.16,location="bedroom" 1656301705095226883
+ sensor_id=568,temperature=86.72,location="kitchen" 1668063492800018120
+ sensor_id=569,temperature=51.16,location="outdoor" 1662250267054178882
+ sensor_id=570,temperature=13.96,location="bedroom" 1644796289670522972
+ sensor_id=571,temperature=18.5,location="bedroom" 1661617082649686058
+ sensor_id=572,temperature=-17.75,location="bedroom" 1666445303541386703
+ sensor_id=573,temperature=-18.02,location="kitchen" 1645175252618341852
+ sensor_id=574,temperature=-1.39,location="outdoor" 1655500821518366953
+ sensor_id=575,temperature=10.32,location="living room" 1658762747417583542
+ sensor_id=576,temperature=8.72,location="living room" 1662686521134206902
+ sensor_id=577,temperature=6.47,location="bedroom" 1642605986695310536
+ sensor_id=578,temperature=69.31,location="bedroom" 1645557851233794203
+ sensor_id=579,temperature=90.08,location="kitchen" 1647061210388808262
+ sensor_id=580,temperature=-7.74,location="outdoor" 1651174639794524649
+ sensor_id=581,temperature=65.93,location="outdoor" 1654819761738375516
+ sensor_id=582,temperature=96.82,location="bedroom" 1661379055046592798
+ sensor_id=583,temperature=69.14,location="kitchen" 1660407789667975541
+ sensor_id=584,temperature=54.98,location="outdoor" 1668538332312066340
+ sensor_id=585,temperature=61.14,location="outdoor" 1663732611255236483
+ sensor_id=586,temperature=-18.28,location="outdoor" 1646029626923829955
+ sensor_id=587,temperature=56.42,location="outdoor" 1664501699282369340
+ sensor_id=588,temperature=22.89,location="bedroom" 1649357860505894228
+ sensor_id=589,temperature=24.32,location="outdoor" 1655593070066858174
+ sensor_id=590,temperature=-2.2,location="kitchen" 1652800892529012568
+ sensor_id=591,temperature=89.35,location="outdoor" 1645486873439266980
+ sensor_id=592,temperature=35.47,location="bedroom" 1661418106528122038
+ sensor_id=593,temperature=-4.18,location="living room" 1659949091535461644
+ sensor_id=594,temperature=25.39,location="outdoor" 1653564972493991232
+ sensor_id=595,temperature=20.2,location="living room" 1643789105437318548
+ sensor_id=596,temperature=92.43,location="living room" 1650082981166129205
+ sensor_id=597,temperature=35.32,location="outdoor" 1665337792045882031
+ sensor_id=598,temperature=34.54,location="outdoor" 1667929525860358043
+ sensor_id=599,temperature=-12.66,location="bedroom" 1644990275075689941
+ sensor_id=600,temperature=44.67,location="bedroom" 1657263784440027906
+ sensor_id=601,temperature=69.22,location="bedroom" 1641349381812938334
+ sensor_id=602,temperature=50.34,location="kitchen" 1651358223097914730
+ sensor_id=603,temperature=86.53,location="bedroom" 1643658291097087321
+ sensor_id=604,temperature=66.58,location="bedroom" 1669162452232206313
+ sensor_id=605,temperature=97.93,location="living room" 1666654823474163446
+ sensor_id=606,temperature=49.61,location="outdoor" 1663649809970660727
+ sensor_id=607,temperature=64.98,location="living room" 1663678283877762666
+ sensor_id=608,temperature=63.36,location="outdoor" 1659534262225186736
+ sensor_id=609,temperature=83.36,location="bedroom" 1645171600051055490
+ sensor_id=610,temperature=41.4,location="kitchen" 1670153568019519196
+ sensor_id=611,temperature=85.44,location="living room" 1666600672154425106
+ sensor_id=612,temperature=32.8,location="bedroom" 1654507911882659043
+ sensor_id=613,temperature=2.46,location="outdoor" 1644850974199607208
+ sensor_id=614,temperature=7.45,location="outdoor" 1672375668109280974
+ sensor_id=615,temperature=93.51,location="outdoor" 1654695947205194658
+ sensor_id=616,temperature=83.01,location="bedroom" 1669985924793689662
+ sensor_id=617,temperature=71.15,location="outdoor" 1647912944964383518
+ sensor_id=618,temperature=3.59,location="living room" 1656230636493645625
+ sensor_id=619,temperature=-7.99,location="outdoor" 1668105054644721655
+ sensor_id=620,temperature=-2.57,location="bedroom" 1664842556956242182
+ sensor_id=621,temperature=72.69,location="kitchen" 1667700841630708636
+ sensor_id=622,temperature=51.74,location="living room" 1658482205307184572
+ sensor_id=623,temperature=70.0,location="living room" 1643519886246244683
+ sensor_id=624,temperature=52.38,location="bedroom" 1649666623652706552
+ sensor_id=625,temperature=96.42,location="kitchen" 1645648615169486012
+ sensor_id=626,temperature=29.57,location="kitchen" 1665431232204283175
+ sensor_id=627,temperature=-15.85,location="kitchen" 1664210231882598706
+ sensor_id=628,temperature=43.97,location="bedroom" 1668046726676292511
+ sensor_id=629,temperature=93.0,location="living room" 1671666006648417339
+ sensor_id=630,temperature=16.9,location="outdoor" 1657222164072840297
+ sensor_id=631,temperature=6.49,location="kitchen" 1657730629778564936
+ sensor_id=632,temperature=36.53,location="kitchen" 1663792458536995456
+ sensor_id=633,temperature=47.08,location="living room" 1651925381584938245
+ sensor_id=634,temperature=29.12,location="kitchen" 1642426626684315455
+ sensor_id=635,temperature=55.2,location="living room" 1651785685528048822
+ sensor_id=636,temperature=4.59,location="bedroom" 1667506460572066155
+ sensor_id=637,temperature=38.07,location="living room" 1652738816400051775
+ sensor_id=638,temperature=57.82,location="outdoor" 1668830430735711778
+ sensor_id=639,temperature=53.15,location="kitchen" 1644107092061008612
+ sensor_id=640,temperature=-18.86,location="bedroom" 1642708600757878970
+ sensor_id=641,temperature=11.27,location="bedroom" 1670917641384931450
+ sensor_id=642,temperature=31.7,location="kitchen" 1654832877534087851
+ sensor_id=643,temperature=68.67,location="kitchen" 1652151193543282605
+ sensor_id=644,temperature=40.91,location="living room" 1667096509461111739
+ sensor_id=645,temperature=4.86,location="living room" 1655396048902591440
+ sensor_id=646,temperature=28.5,location="living room" 1657856051379216797
+ sensor_id=647,temperature=93.59,location="outdoor" 1656552913397073157
+ sensor_id=648,temperature=57.35,location="outdoor" 1651423979920328364
+ sensor_id=649,temperature=57.26,location="outdoor" 1658837413394739128
+ sensor_id=650,temperature=50.8,location="living room" 1666334042732832934
+ sensor_id=651,temperature=90.9,location="living room" 1656621768423749522
+ sensor_id=652,temperature=50.67,location="bedroom" 1648673531957019273
+ sensor_id=653,temperature=53.47,location="outdoor" 1655568534736007910
+ sensor_id=654,temperature=12.24,location="kitchen" 1653234456832305387
+ sensor_id=655,temperature=85.0,location="kitchen" 1643779947655970071
+ sensor_id=656,temperature=49.39,location="outdoor" 1653798061367074440
+ sensor_id=657,temperature=65.83,location="outdoor" 1658775466009877456
+ sensor_id=658,temperature=91.48,location="kitchen" 1650279265335792435
+ sensor_id=659,temperature=29.16,location="bedroom" 1645987332958072569
+ sensor_id=660,temperature=-4.87,location="outdoor" 1651067088755409260
+ sensor_id=661,temperature=90.17,location="kitchen" 1670468502541413581
+ sensor_id=662,temperature=49.48,location="living room" 1648952557653849244
+ sensor_id=663,temperature=9.41,location="outdoor" 1645946433711936280
+ sensor_id=664,temperature=47.29,location="outdoor" 1660132680693447354
+ sensor_id=665,temperature=-1.59,location="outdoor" 1661083184725986738
+ sensor_id=666,temperature=42.97,location="kitchen" 1662339728697377094
+ sensor_id=667,temperature=72.0,location="living room" 1653338510107426145
+ sensor_id=668,temperature=58.64,location="outdoor" 1664235094809156748
+ sensor_id=669,temperature=77.9,location="outdoor" 1642679012754957375
+ sensor_id=670,temperature=0.2,location="living room" 1654757272208994105
+ sensor_id=671,temperature=23.23,location="bedroom" 1648412645481141568
+ sensor_id=672,temperature=23.61,location="outdoor" 1660103337751420226
+ sensor_id=673,temperature=-12.39,location="bedroom" 1665982193829099074
+ sensor_id=674,temperature=84.8,location="outdoor" 1654305402349205555
+ sensor_id=675,temperature=16.95,location="living room" 1655629386915870168
+ sensor_id=676,temperature=29.99,location="kitchen" 1667531995053666842
+ sensor_id=677,temperature=14.43,location="bedroom" 1666084340421780309
+ sensor_id=678,temperature=50.84,location="living room" 1653563149241933733
+ sensor_id=679,temperature=45.57,location="kitchen" 1643880231463404622
+ sensor_id=680,temperature=83.06,location="kitchen" 1658542613807435878
+ sensor_id=681,temperature=9.87,location="living room" 1652316749366453028
+ sensor_id=682,temperature=45.24,location="living room" 1658620403918698627
+ sensor_id=683,temperature=72.78,location="bedroom" 1649556736437095365
+ sensor_id=684,temperature=34.3,location="bedroom" 1650706901110154374
+ sensor_id=685,temperature=-9.21,location="living room" 1659872166378063099
+ sensor_id=686,temperature=79.12,location="bedroom" 1644962394728309432
+ sensor_id=687,temperature=85.75,location="living room" 1654332832702093976
+ sensor_id=688,temperature=69.96,location="bedroom" 1668950901553187532
+ sensor_id=689,temperature=11.04,location="bedroom" 1652325309598504812
+ sensor_id=690,temperature=43.42,location="bedroom" 1643253499063234545
+ sensor_id=691,temperature=27.94,location="bedroom" 1652766953606888609
+ sensor_id=692,temperature=17.25,location="outdoor" 1672018112719752194
+ sensor_id=693,temperature=54.64,location="bedroom" 1666653937867758528
+ sensor_id=694,temperature=-13.22,location="outdoor" 1660086504640398480
+ sensor_id=695,temperature=-2.35,location="outdoor" 1658594879075650929
+ sensor_id=696,temperature=63.2,location="living room" 1663649455504676546
+ sensor_id=697,temperature=-18.74,location="kitchen" 1658265854924358820
+ sensor_id=698,temperature=20.99,location="outdoor" 1669371612244001080
+ sensor_id=699,temperature=-7.49,location="living room" 1646071284202787637
+ sensor_id=700,temperature=81.6,location="bedroom" 1656085267286925019
+ sensor_id=701,temperature=92.75,location="living room" 1643677423888538903
+ sensor_id=702,temperature=56.51,location="outdoor" 1647747622875712344
+ sensor_id=703,temperature=30.85,location="kitchen" 1652257343406250476
+ sensor_id=704,temperature=50.9,location="kitchen" 1649956702508126198
+ sensor_id=705,temperature=-18.66,location="living room" 1665105742786032142
+ sensor_id=706,temperature=8.99,location="outdoor" 1641823262666828290
+ sensor_id=707,temperature=45.65,location="living room" 1643617900551084160
+ sensor_id=708,temperature=-13.72,location="kitchen" 1665965508609958541
+ sensor_id=709,temperature=48.18,location="living room" 1667836727458734281
+ sensor_id=710,temperature=5.8,location="kitchen" 1657402799078114948
+ sensor_id=711,temperature=72.76,location="outdoor" 1666235692026543285
+ sensor_id=712,temperature=48.38,location="living room" 1652791226782325588
+ sensor_id=713,temperature=65.74,location="living room" 1669646656643322124
+ sensor_id=714,temperature=16.5,location="bedroom" 1655353750675865331
+ sensor_id=715,temperature=17.96,location="bedroom" 1654762083115953154
+ sensor_id=716,temperature=36.75,location="bedroom" 1660599767312663730
+ sensor_id=717,temperature=52.84,location="kitchen" 1670880039245738712
+ sensor_id=718,temperature=-17.47,location="living room" 1671725052475477865
+ sensor_id=719,temperature=85.12,location="outdoor" 1663778960095146013
+ sensor_id=720,temperature=52.42,location="outdoor" 1646103385347184250
+ sensor_id=721,temperature=55.39,location="kitchen" 1659350841788828558
+ sensor_id=722,temperature=25.59,location="outdoor" 1672254516402473374
+ sensor_id=723,temperature=29.37,location="bedroom" 1666061413780284199
+ sensor_id=724,temperature=31.9,location="outdoor" 1666682654760178306
+ sensor_id=725,temperature=9.41,location="bedroom" 1668649053512637778
+ sensor_id=726,temperature=91.65,location="kitchen" 1649327574414022472
+ sensor_id=727,temperature=91.41,location="kitchen" 1666780798671220856
+ sensor_id=728,temperature=93.06,location="kitchen" 1663330611136040779
+ sensor_id=729,temperature=27.92,location="living room" 1652067547603724769
+ sensor_id=730,temperature=40.04,location="outdoor" 1641260756944285748
+ sensor_id=731,temperature=10.25,location="bedroom" 1661456808730540412
+ sensor_id=732,temperature=71.37,location="outdoor" 1657127783756913508
+ sensor_id=733,temperature=66.34,location="living room" 1649807262259855523
+ sensor_id=734,temperature=79.26,location="bedroom" 1658861942131248599
+ sensor_id=735,temperature=25.02,location="bedroom" 1662765511451020039
+ sensor_id=736,temperature=97.77,location="outdoor" 1652951522402419051
+ sensor_id=737,temperature=68.16,location="bedroom" 1641123757235432034
+ sensor_id=738,temperature=29.09,location="bedroom" 1655604387801909363
+ sensor_id=739,temperature=10.23,location="outdoor" 1654504648478774387
+ sensor_id=740,temperature=16.22,location="living room" 1656965001929859913
+ sensor_id=741,temperature=76.8,location="kitchen" 1642983698858943807
+ sensor_id=742,temperature=16.01,location="outdoor" 1661733649295347923
+ sensor_id=743,temperature=70.35,location="living room" 1668661213819264147
+ sensor_id=744,temperature=23.58,location="bedroom" 1646369824704157721
+ sensor_id=745,temperature=88.45,location="outdoor" 1652946353337166444
+ sensor_id=746,temperature=-13.83,location="kitchen" 1645191843954249837
+ sensor_id=747,temperature=59.21,location="outdoor" 1644009099062057872
+ sensor_id=748,temperature=45.15,location="bedroom" 1660486786967549979
+ sensor_id=749,temperature=75.97,location="living room" 1652210095721684966
+ sensor_id=750,temperature=1.83,location="living room" 1670095075868410311
+ sensor_id=751,temperature=1.56,location="outdoor" 1671163744165369516
+ sensor_id=752,temperature=-12.03,location="bedroom" 1656595971203063297
+ sensor_id=753,temperature=22.84,location="bedroom" 1643055672293251573
+ sensor_id=754,temperature=8.95,location="bedroom" 1651245988245273003
+ sensor_id=755,temperature=67.49,location="living room" 1649651210780478312
+ sensor_id=756,temperature=40.38,location="kitchen" 1642312782015339607
+ sensor_id=757,temperature=15.91,location="outdoor" 1670115736541642727
+ sensor_id=758,temperature=13.87,location="outdoor" 1642985418441119981
+ sensor_id=759,temperature=-13.41,location="living room" 1657727698385361479
+ sensor_id=760,temperature=-9.37,location="living room" 1641223497554897716
+ sensor_id=761,temperature=-9.4,location="living room" 1671123767946175201
+ sensor_id=762,temperature=69.23,location="outdoor" 1651647566526255242
+ sensor_id=763,temperature=75.57,location="outdoor" 1662160426103164096
+ sensor_id=764,temperature=55.58,location="bedroom" 1647847103795107902
+ sensor_id=765,temperature=9.38,location="living room" 1646894441813641089
+ sensor_id=766,temperature=65.15,location="bedroom" 1665618382137877172
+ sensor_id=767,temperature=14.95,location="bedroom" 1665869667873799684
+ sensor_id=768,temperature=60.9,location="bedroom" 1671993562678841108
+ sensor_id=769,temperature=95.07,location="living room" 1647480989025946639
+ sensor_id=770,temperature=21.05,location="kitchen" 1659446259355123460
+ sensor_id=771,temperature=-2.38,location="bedroom" 1648678226741846985
+ sensor_id=772,temperature=-5.96,location="bedroom" 1668999406348837206
+ sensor_id=773,temperature=-3.02,location="living room" 1651379317034073578
+ sensor_id=774,temperature=92.39,location="living room" 1656936298338289040
+ sensor_id=775,temperature=90.12,location="kitchen" 1660286739170722846
+ sensor_id=776,temperature=-14.34,location="kitchen" 1641785341738258529
+ sensor_id=777,temperature=84.9,location="bedroom" 1664319262898625056
+ sensor_id=778,temperature=15.48,location="outdoor" 1664863243564977262
+ sensor_id=779,temperature=90.9,location="living room" 1656575623777912918
+ sensor_id=780,temperature=36.83,location="bedroom" 1642691805033060413
+ sensor_id=781,temperature=-1.76,location="outdoor" 1661986317606471820
+ sensor_id=782,temperature=33.1,location="bedroom" 1665541105956759509
+ sensor_id=783,temperature=62.54,location="bedroom" 1650224822271851822
+ sensor_id=784,temperature=51.49,location="kitchen" 1670450468438929671
+ sensor_id=785,temperature=-4.5,location="kitchen" 1645925665775552463
+ sensor_id=786,temperature=36.89,location="kitchen" 1661826606279316234
+ sensor_id=787,temperature=76.37,location="bedroom" 1667643242464589624
+ sensor_id=788,temperature=12.22,location="outdoor" 1646754080547940451
+ sensor_id=789,temperature=23.15,location="bedroom" 1660185904059462433
+ sensor_id=790,temperature=63.95,location="bedroom" 1661600020718521378
+ sensor_id=791,temperature=84.37,location="outdoor" 1645550418794424382
+ sensor_id=792,temperature=45.34,location="living room" 1643764642120585806
+ sensor_id=793,temperature=33.66,location="bedroom" 1660874648966928846
+ sensor_id=794,temperature=-9.81,location="outdoor" 1669762194407035349
+ sensor_id=795,temperature=-2.26,location="bedroom" 1661529437639098118
+ sensor_id=796,temperature=37.78,location="living room" 1651571963937129653
+ sensor_id=797,temperature=31.43,location="kitchen" 1670895663950580787
+ sensor_id=798,temperature=66.59,location="outdoor" 1644414408790588162
+ sensor_id=799,temperature=-8.85,location="bedroom" 1662598490941744565
+ sensor_id=800,temperature=-18.01,location="outdoor" 1645852941480806888
+ sensor_id=801,temperature=39.21,location="outdoor" 1671518841441240846
+ sensor_id=802,temperature=52.22,location="bedroom" 1656787679146124131
+ sensor_id=803,temperature=-6.59,location="living room" 1645327372367427406
+ sensor_id=804,temperature=48.19,location="outdoor" 1642153742533546762
+ sensor_id=805,temperature=11.85,location="living room" 1669862149502424928
+ sensor_id=806,temperature=25.0,location="living room" 1662216454038575441
+ sensor_id=807,temperature=8.73,location="bedroom" 1664434805029233949
+ sensor_id=808,temperature=29.13,location="outdoor" 1662587253604414746
+ sensor_id=809,temperature=1.76,location="bedroom" 1664664324747497837
+ sensor_id=810,temperature=87.48,location="bedroom" 1672072934719583520
+ sensor_id=811,temperature=-13.27,location="outdoor" 1665118166442222610
+ sensor_id=812,temperature=-1.54,location="kitchen" 1641865992052083011
+ sensor_id=813,temperature=64.92,location="bedroom" 1657325781567039310
+ sensor_id=814,temperature=50.54,location="outdoor" 1650391482740187638
+ sensor_id=815,temperature=28.08,location="outdoor" 1641166908007686730
+ sensor_id=816,temperature=94.27,location="outdoor" 1666576092749023914
+ sensor_id=817,temperature=77.87,location="living room" 1665679331081001367
+ sensor_id=818,temperature=53.14,location="kitchen" 1663350514657606866
+ sensor_id=819,temperature=55.32,location="living room" 1663252281088216055
+ sensor_id=820,temperature=53.84,location="living room" 1664357875241980761
+ sensor_id=821,temperature=19.94,location="bedroom" 1647698386555643660
+ sensor_id=822,temperature=-18.82,location="kitchen" 1642809979510822148
+ sensor_id=823,temperature=84.08,location="kitchen" 1651924606419209043
+ sensor_id=824,temperature=50.52,location="bedroom" 1650346984459321721
+ sensor_id=825,temperature=-9.55,location="bedroom" 1660741956421485080
+ sensor_id=826,temperature=-11.73,location="kitchen" 1666873922310181234
+ sensor_id=827,temperature=89.3,location="kitchen" 1658809113274286613
+ sensor_id=828,temperature=47.4,location="outdoor" 1670780135580853758
+ sensor_id=829,temperature=28.47,location="living room" 1647483440461728818
+ sensor_id=830,temperature=59.2,location="kitchen" 1670345376937413430
+ sensor_id=831,temperature=92.0,location="bedroom" 1643752649111023444
+ sensor_id=832,temperature=99.9,location="living room" 1666005561202220189
+ sensor_id=833,temperature=31.94,location="living room" 1657618982439149837
+ sensor_id=834,temperature=-15.04,location="outdoor" 1644366717856647067
+ sensor_id=835,temperature=64.38,location="kitchen" 1663259697451134940
+ sensor_id=836,temperature=95.39,location="outdoor" 1651191848288321288
+ sensor_id=837,temperature=-2.01,location="living room" 1660088161351758603
+ sensor_id=838,temperature=41.97,location="outdoor" 1652869951663739570
+ sensor_id=839,temperature=16.63,location="kitchen" 1647574491453531674
+ sensor_id=840,temperature=-11.53,location="bedroom" 1655203204703286796
+ sensor_id=841,temperature=52.91,location="outdoor" 1660857014486499532
+ sensor_id=842,temperature=6.78,location="living room" 1667716984243848979
+ sensor_id=843,temperature=-8.92,location="living room" 1657963062940512018
+ sensor_id=844,temperature=39.24,location="kitchen" 1650286850925982770
+ sensor_id=845,temperature=53.46,location="outdoor" 1645354458696935285
+ sensor_id=846,temperature=44.25,location="kitchen" 1644908063346795827
+ sensor_id=847,temperature=69.34,location="bedroom" 1648648130073845642
+ sensor_id=848,temperature=18.3,location="bedroom" 1667536087288220049
+ sensor_id=849,temperature=75.29,location="kitchen" 1672313783229663745
+ sensor_id=850,temperature=57.8,location="kitchen" 1672022643079515036
+ sensor_id=851,temperature=63.38,location="living room" 1670196768632681649
+ sensor_id=852,temperature=38.84,location="outdoor" 1646188351260214859
+ sensor_id=853,temperature=14.17,location="living room" 1648920354945295827
+ sensor_id=854,temperature=55.19,location="kitchen" 1672433267488311480
+ sensor_id=855,temperature=88.77,location="living room" 1664997871901969751
+ sensor_id=856,temperature=-14.86,location="kitchen" 1658404753512773524
+ sensor_id=857,temperature=83.08,location="outdoor" 1651436197771608049
+ sensor_id=858,temperature=-18.93,location="kitchen" 1647390085504240314
+ sensor_id=859,temperature=47.91,location="outdoor" 1658995650662557994
+ sensor_id=860,temperature=35.53,location="kitchen" 1647888801257193621
+ sensor_id=861,temperature=33.8,location="bedroom" 1669734843487312106
+ sensor_id=862,temperature=67.37,location="kitchen" 1671304121598020559
+ sensor_id=863,temperature=2.65,location="outdoor" 1664854066343800288
+ sensor_id=864,temperature=91.89,location="outdoor" 1641189997965072676
+ sensor_id=865,temperature=-15.99,location="outdoor" 1651263303058185755
+ sensor_id=866,temperature=34.99,location="outdoor" 1655911199742566961
+ sensor_id=867,temperature=21.11,location="living room" 1662288422594035140
+ sensor_id=868,temperature=47.4,location="outdoor" 1664133241309557311
+ sensor_id=869,temperature=16.53,location="outdoor" 1670634861109419839
+ sensor_id=870,temperature=60.34,location="outdoor" 1672179981349104510
+ sensor_id=871,temperature=34.11,location="kitchen" 1653629010652214605
+ sensor_id=872,temperature=1.86,location="kitchen" 1657259280794338930
+ sensor_id=873,temperature=42.3,location="outdoor" 1654268688879292346
+ sensor_id=874,temperature=62.42,location="kitchen" 1666520743534619204
+ sensor_id=875,temperature=35.59,location="outdoor" 1642750266121376244
+ sensor_id=876,temperature=71.62,location="living room" 1647063935859815603
+ sensor_id=877,temperature=39.1,location="kitchen" 1657741286100761060
+ sensor_id=878,temperature=50.45,location="bedroom" 1648546920287881742
+ sensor_id=879,temperature=70.01,location="bedroom" 1648994196572411777
+ sensor_id=880,temperature=50.35,location="living room" 1659747794160325746
+ sensor_id=881,temperature=70.72,location="kitchen" 1645340674637637788
+ sensor_id=882,temperature=-17.08,location="bedroom" 1660456845182907516
+ sensor_id=883,temperature=-12.13,location="bedroom" 1651231925942187802
+ sensor_id=884,temperature=-4.9,location="kitchen" 1667718887271378527
+ sensor_id=885,temperature=87.24,location="living room" 1661677358040931910
+ sensor_id=886,temperature=44.71,location="bedroom" 1662139031624266117
+ sensor_id=887,temperature=-14.4,location="bedroom" 1657098203974375886
+ sensor_id=888,temperature=81.44,location="kitchen" 1649654495627612942
+ sensor_id=889,temperature=11.86,location="outdoor" 1665729330691450598
+ sensor_id=890,temperature=18.09,location="kitchen" 1641691322123562825
+ sensor_id=891,temperature=-18.96,location="bedroom" 1651598671875444794
+ sensor_id=892,temperature=-12.78,location="bedroom" 1645662451149285349
+ sensor_id=893,temperature=67.17,location="kitchen" 1642786114028669744
+ sensor_id=894,temperature=2.75,location="living room" 1645742902578566546
+ sensor_id=895,temperature=94.71,location="kitchen" 1671861968162049065
+ sensor_id=896,temperature=64.15,location="bedroom" 1666247206709917931
+ sensor_id=897,temperature=93.35,location="kitchen" 1667089841877821173
+ sensor_id=898,temperature=96.54,location="bedroom" 1658995785649741660
+ sensor_id=899,temperature=31.92,location="kitchen" 1663125914160975673
+ sensor_id=900,temperature=50.69,location="bedroom" 1651152764160292900
+ sensor_id=901,temperature=47.94,location="kitchen" 1645972931171847809
+ sensor_id=902,temperature=45.53,location="living room" 1664968035832938104
+ sensor_id=903,temperature=29.44,location="outdoor" 1661951087311438583
+ sensor_id=904,temperature=9.11,location="bedroom" 1651414437263472657
+ sensor_id=905,temperature=-7.81,location="living room" 1645468780881098713
+ sensor_id=906,temperature=83.49,location="living room" 1671704742247778537
+ sensor_id=907,temperature=-5.53,location="outdoor" 1649288619867637866
+ sensor_id=908,temperature=-16.52,location="outdoor" 1652543423905367459
+ sensor_id=909,temperature=22.33,location="outdoor" 1669490460559214754
+ sensor_id=910,temperature=-5.77,location="living room" 1666862919571037382
+ sensor_id=911,temperature=96.98,location="living room" 1668526890445770951
+ sensor_id=912,temperature=85.83,location="bedroom" 1655835309318927875
+ sensor_id=913,temperature=-2.42,location="outdoor" 1672377152387927129
+ sensor_id=914,temperature=33.6,location="living room" 1668683185181000007
+ sensor_id=915,temperature=25.85,location="outdoor" 1642530503314360378
+ sensor_id=916,temperature=56.43,location="kitchen" 1659516736485681910
+ sensor_id=917,temperature=7.12,location="kitchen" 1647621809481533564
+ sensor_id=918,temperature=-8.79,location="living room" 1657675701896160890
+ sensor_id=919,temperature=-2.71,location="kitchen" 1656213715029660610
+ sensor_id=920,temperature=48.28,location="living room" 1660861161654912156
+ sensor_id=921,temperature=78.54,location="bedroom" 1665035393009511831
+ sensor_id=922,temperature=-2.51,location="outdoor" 1647506274935015938
+ sensor_id=923,temperature=55.91,location="kitchen" 1647384799808416131
+ sensor_id=924,temperature=77.63,location="living room" 1641676497941623159
+ sensor_id=925,temperature=61.51,location="living room" 1662831747480931748
+ sensor_id=926,temperature=0.33,location="kitchen" 1665745010417122023
+ sensor_id=927,temperature=42.05,location="kitchen" 1668875805201814673
+ sensor_id=928,temperature=32.5,location="outdoor" 1659184307534305209
+ sensor_id=929,temperature=76.09,location="outdoor" 1666492968350101340
+ sensor_id=930,temperature=-1.44,location="kitchen" 1662051618318351633
+ sensor_id=931,temperature=-11.93,location="bedroom" 1667878996114778124
+ sensor_id=932,temperature=71.3,location="outdoor" 1669754029252379270
+ sensor_id=933,temperature=70.92,location="kitchen" 1656128370961054627
+ sensor_id=934,temperature=-16.19,location="living room" 1661016180213168193
+ sensor_id=935,temperature=38.44,location="kitchen" 1645352433071496641
+ sensor_id=936,temperature=42.6,location="kitchen" 1661053466702841222
+ sensor_id=937,temperature=99.99,location="outdoor" 1644198536231123532
+ sensor_id=938,temperature=-19.84,location="outdoor" 1656144359176749092
+ sensor_id=939,temperature=71.9,location="outdoor" 1663850703624692396
+ sensor_id=940,temperature=43.35,location="outdoor" 1656877169364240804
+ sensor_id=941,temperature=-6.52,location="living room" 1661852124610840553
+ sensor_id=942,temperature=96.62,location="kitchen" 1659900354915874438
+ sensor_id=943,temperature=17.81,location="bedroom" 1667143006457520625
+ sensor_id=944,temperature=86.5,location="living room" 1646344920046415088
+ sensor_id=945,temperature=93.29,location="outdoor" 1670219270041743754
+ sensor_id=946,temperature=13.8,location="bedroom" 1670267578507407988
+ sensor_id=947,temperature=-18.24,location="outdoor" 1662688010360372496
+ sensor_id=948,temperature=17.31,location="outdoor" 1652857490761120970
+ sensor_id=949,temperature=20.38,location="kitchen" 1642809210845856992
+ sensor_id=950,temperature=77.78,location="kitchen" 1647367703726627246
+ sensor_id=951,temperature=66.29,location="living room" 1641104543940676039
+ sensor_id=952,temperature=16.85,location="kitchen" 1645714489861116025
+ sensor_id=953,temperature=-4.68,location="bedroom" 1669450604022411782
+ sensor_id=954,temperature=86.38,location="bedroom" 1644934610806259913
+ sensor_id=955,temperature=70.36,location="outdoor" 1647531156029032391
+ sensor_id=956,temperature=90.79,location="bedroom" 1654199342838936984
+ sensor_id=957,temperature=60.41,location="bedroom" 1662608939273031655
+ sensor_id=958,temperature=87.61,location="kitchen" 1670242731530917371
+ sensor_id=959,temperature=21.43,location="kitchen" 1642317920405253403
+ sensor_id=960,temperature=-0.15,location="living room" 1646373554594410275
+ sensor_id=961,temperature=2.12,location="kitchen" 1641308640601807418
+ sensor_id=962,temperature=71.29,location="bedroom" 1653728373601659872
+ sensor_id=963,temperature=55.61,location="kitchen" 1669164073192602499
+ sensor_id=964,temperature=90.91,location="kitchen" 1665979721227621451
+ sensor_id=965,temperature=76.67,location="outdoor" 1653818412609116020
+ sensor_id=966,temperature=33.66,location="kitchen" 1664938455466933132
+ sensor_id=967,temperature=54.96,location="kitchen" 1646579839345283937
+ sensor_id=968,temperature=2.65,location="bedroom" 1669708670463871543
+ sensor_id=969,temperature=9.7,location="outdoor" 1662912881119629277
+ sensor_id=970,temperature=60.4,location="bedroom" 1664873189720952592
+ sensor_id=971,temperature=88.89,location="outdoor" 1657385008871837432
+ sensor_id=972,temperature=8.36,location="living room" 1650603942998717440
+ sensor_id=973,temperature=1.02,location="bedroom" 1659486278581246230
+ sensor_id=974,temperature=67.72,location="bedroom" 1659600737061301538
+ sensor_id=975,temperature=35.9,location="outdoor" 1654574953931134269
+ sensor_id=976,temperature=31.73,location="kitchen" 1661991271493179123
+ sensor_id=977,temperature=98.23,location="living room" 1670611892208115439
+ sensor_id=978,temperature=25.33,location="kitchen" 1644009639120239205
+ sensor_id=979,temperature=38.28,location="living room" 1668473570291985611
+ sensor_id=980,temperature=62.13,location="kitchen" 1671477846694315683
+ sensor_id=981,temperature=-1.16,location="living room" 1671439703017180216
+ sensor_id=982,temperature=46.02,location="outdoor" 1660854978775494026
+ sensor_id=983,temperature=67.84,location="kitchen" 1641219136675446760
+ sensor_id=984,temperature=32.52,location="kitchen" 1657853754361461152
+ sensor_id=985,temperature=-0.68,location="outdoor" 1641302423422632377
+ sensor_id=986,temperature=-7.58,location="outdoor" 1664047211929359116
+ sensor_id=987,temperature=37.67,location="outdoor" 1643424827319219735
+ sensor_id=988,temperature=51.25,location="living room" 1668070883908796999
+ sensor_id=989,temperature=57.58,location="bedroom" 1663459177659194121
+ sensor_id=990,temperature=52.52,location="bedroom" 1655247893475589871
+ sensor_id=991,temperature=71.65,location="bedroom" 1645470967287582924
+ sensor_id=992,temperature=9.62,location="living room" 1656164529906653468
+ sensor_id=993,temperature=76.66,location="kitchen" 1660850595841863717
+ sensor_id=994,temperature=16.46,location="outdoor" 1669627498835106695
+ sensor_id=995,temperature=68.93,location="bedroom" 1661877985960360963
+ sensor_id=996,temperature=2.86,location="outdoor" 1645465066689677353
+ sensor_id=997,temperature=98.23,location="kitchen" 1665163146452328371
+ sensor_id=998,temperature=-15.1,location="outdoor" 1663342061267878758
+ sensor_id=999,temperature=72.29,location="living room" 1662857754906914608
+ sensor_id=1000,temperature=82.24,location="outdoor" 1657813844365556638
