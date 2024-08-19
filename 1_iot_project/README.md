@@ -19,3 +19,9 @@ Develop an Organized Structure Using DevOps and Agile Methodology:
 - Real-Time Streaming: Set up real-time data streaming and analytics using tools like Grafana or Streamlit.
 - Monitoring Systems: Integrate systems to monitor performance and detect anomalies.
 - Interactive Dashboards: Visualize data trends with interactive dashboards for informed decision-making.
+
+
+## iot_data_management
+Project 1: Handling mock data (Mockaroo) and managing database with SQLAlchemy.
+
+- This mini project 
