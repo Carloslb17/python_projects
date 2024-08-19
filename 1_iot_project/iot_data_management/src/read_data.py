@@ -4,11 +4,15 @@ import pandas as pd
 
 
 class ReadFiles():
+    """_summary_
+        path: Introduce the path to read the data. 
+    
+    """
     def __init__(self, path) -> None:
         self.path = path
         
         if ".csv" in path:
-            self.open_csv(self.path)
+            self.df = self.open_csv()
         
         
         
